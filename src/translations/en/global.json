@@ -1,0 +1,8 @@
+{
+    "header": {
+          "message": "Welcome to React Project"
+    },
+    "home": {
+          "body": "This is a React JS Project"
+    }
+}
